@@ -1,4 +1,4 @@
-Hello! Please note that this is the transcript of what I'm going to do as I try a live demo for Monster Mashup. The site where you can access a walkthrough is here:  [http://michellehudson.github.io/monster_mashup/](http://michellehudson.github.io/monster_mashup/)
+Hello! Please note that this is the transcript of what I'm going to do as I try a live demo for Monster Mashup. The site where you can access a digital presentation of this material is here:  [http://michellehudson.github.io/monster_mashup/](http://michellehudson.github.io/monster_mashup/)
 
 ### Download OpenRefine. http://openrefine.org/
 
